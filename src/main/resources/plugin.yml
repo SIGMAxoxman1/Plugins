@@ -1,0 +1,6 @@
+name: SigmaRCON
+version: '1.0.0'
+main: com.sigmahost.sigmarcon.SigmaRCON
+api-version: '1.21'
+author: sigma-host
+description: HTTP API bridge for remote server management (files, console, players, last-seen, chunk load) used by sigma-host dashboards.
